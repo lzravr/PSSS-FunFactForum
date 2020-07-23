@@ -1,0 +1,2 @@
+Potrebno je izmeniti path u Congif.java do foldera assets/img koji je u folderu projekta.
+Nakon upload-a slike prilikom promene profilne treba refreshovati folder u kom se one nalaze (assets/img) da bi promena bila vidljiva (ne znam zasto .jsp ne vidi sliku pre toga).
